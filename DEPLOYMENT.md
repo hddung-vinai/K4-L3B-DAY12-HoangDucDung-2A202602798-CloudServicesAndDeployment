@@ -97,5 +97,5 @@ HTTP/1.1 200 OK
 
 Đặt ảnh trong thư mục `screenshots/`:
 
-- `screenshots/log.jpg` — log đã thành công
+- `screenshots/dashboard.jpg` — 2 image đã được deploy thành công
 - `screenshots/health.jpg` — kết quả gọi `/health` từ trình duyệt hoặc curl
